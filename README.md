@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://kir4qt-links.vercel.app" target="_blank">
-    <img src="Hitagi-2.jpg" alt="Introduce" width="450px" style="border-radius: 8px;">
+    <img src="Hitagi-2.jpg" alt="Introduce" width="350px" style="border-radius: 8px;">
   </a>
 </p>
 
